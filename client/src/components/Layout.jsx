@@ -56,7 +56,7 @@ export default function Layout(props) {
               className="navbar-brand fw-bold text-primary me-md-5  me-3"
             >
               <img height="50px" src={Logo} alt="" srcset="" />
-              <span style={{ marginLeft: "15px" }}>healthify</span>
+              <span style={{ marginLeft: "15px" }}>health chain</span>
             </Link>
             {location.pathname === "/" && (
               <div
