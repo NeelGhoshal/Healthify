@@ -90,7 +90,7 @@ function Home() {
             </div>
           </div>
           <h2 className="py-5 my-5 px-2 w-50 mx-5 text-secondary mt-5 text-start">
-            <span className="text-primary fw-bold">Healthify</span> is the next
+            <span className="text-primary fw-bold">Health Chain</span> is the next
             generation of healthcare. The platform stores data on the blockchain with the help of smart contracts
           </h2>
         </div>
@@ -143,7 +143,6 @@ function Home() {
           <div className="container py-5">
             <div className="d-flex align-items-center justify-content-center">
               <div className="px-md-5 text-center text-secondary">
-                <p className="badge text-secondary">Built by</p>
               </div>
             </div>
           </div>
